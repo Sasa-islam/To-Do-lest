@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    font-family: Edwardian Script ITC;
+    background: linear-gradient(to right,#00ffdd,#00eeff,#00d9ff,#0095ff);
+}
+    
+#tasks{ 
+    display:  inline-block;
+    width: 500px;
+}
+ul{
+    list-style: none;
+}
+li{
+    background-color: snow;
+    padding: 8px;
+    margin-top: 8px;
+    border-radius: 4px;
+    font-family: Edwardian Script ITC;
+    color: #00d9ff;
+    font-size: xx-large;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#bm{
+
+   
+    margin-right: 40px;
+    
+    text-align: left;
+    
+}
+
